@@ -1,0 +1,17 @@
+"Ticket ID",Description,Status,Priority,"Agent ID","Agent Name","Agent Email","Contact ID","Contact Name","Contact Email","Group ID","Group Name","Company ID","Company Name",Comments
+1,"Hi Oleh,
+
+This is your first ticket. Ta-da! Any customer request sent to your supported channels (email, chat, voicemail, web form, and tweet) will become a Support ticket, just like this one. Respond to this ticket by typing a message and clicking Submit. You can also see how an email becomes a ticket by emailing your new account, support@palkoleghelp.zendesk.com. Your ticket will appear in ticket views.
+
+That's the ticket on tickets. If you want to learn more, check out: 
+https://support.zendesk.com/hc/en-us/articles/203691476
+",open,normal,384766159157,"Oleh Palka",palkoleg1997@gmail.com,384903619118,"The Customer",customer@example.com,360008422338,Support,360497008997,Business,"Hi Oleh,
+
+This is your first ticket. Ta-da! Any customer request sent to your supported channels (email, chat, voicemail, web form, and tweet) will become a Support ticket, just like this one. Respond to this ticket by typing a message and clicking Submit. You can also see how an email becomes a ticket by emailing your new account, support@palkoleghelp.zendesk.com. Your ticket will appear in ticket views.
+
+That's the ticket on tickets. If you want to learn more, check out: 
+https://support.zendesk.com/hc/en-us/articles/203691476
+Hi!
+Comment"
+4,Test,open,,384766159157,"Oleh Palka",palkoleg1997@gmail.com,384929805318,Test,poleg1997@gmail.com,360008422338,Support,360497829417,Test1,"Test
+Hi!"

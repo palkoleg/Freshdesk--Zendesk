@@ -1,0 +1,13 @@
+{
+  "name": "develop/project",
+  "type": "project",
+  "require": {
+    "guzzlehttp/guzzle": "^7.3.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "project\\": "src/"
+    }
+  }
+}
