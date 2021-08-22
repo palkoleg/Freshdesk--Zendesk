@@ -39,15 +39,13 @@ class DataProcessing
                 $this->setToken($token);
                 $this->setSubdomain($subdomain);
                 $this->setUserName($token ? $userName . '/token' : $userName);
-                /*$this->setPassword("FHxo4NEsKt257WzFigUmGlUv3LoYrL4RQswO37vN");*/
-                $this->setPassword($password);
+                  $this->setPassword($password);
                 $this->processingData($helpDeskType);
             } else if($helpDeskType == 2) {
                 $this->setToken($token);
                 $this->setSubdomain($subdomain);
                 $this->setUserName($userName);
-                /*$this->setPassword("FHxo4NEsKt257WzFigUmGlUv3LoYrL4RQswO37vN");*/
-                $this->setPassword($password);
+                    $this->setPassword($password);
                 $this->processingData($helpDeskType);
             }
 
